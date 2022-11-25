@@ -1,7 +1,18 @@
-header{
-  display: flex;
-  justify-content:space-between;
-  text-align: center;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+.titulo{
+  position: absolute;
+   text-align: center;
+
 margin-top: 20px;
+margin-left: 36%;
+}
+
+.img{
+
+  position: relative;
+    margin-top: 120px;
+  margin-bottom: 40px;
+  margin-left: 35%;
+  border-radius: 5px;
 }
